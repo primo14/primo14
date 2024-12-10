@@ -15,7 +15,6 @@ I'm a recent Software Engineering Grad eager to apply my skills and continue gro
 ### 🛠  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
 ![C#](https://img.shields.io/badge/C%23-05122A)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
