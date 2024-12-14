@@ -1,5 +1,3 @@
-# Hi there I'm primo14 aka Priyanka 👋
-
 <!--
 **primo14/primo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
