@@ -7,8 +7,8 @@ Here are some ideas to get you started: -->
 I'm a recent Software Engineering Grad eager to apply my skills and continue growing in the field. With a strong foundation in web and app development in various languages and frameworks, I'm looking for opportunities to contribute to real-world projects while expanding my knowledge and expertise in the ever-evolving tech landscape. I'm excited to collaborate, learn, and make a positive impact through technology.
 
 
-- 🔭 I’m currently developing ... A travel app project! I already released the trial version of the android mobile app version and my the web app will be released soon! I used .NET MAUI as 
-- 🌱 I love working on ... small automation projects that makes my life easier!
+- 🔭 I’m currently developing ... A travel planning app! I already released the trial version of the Android mobile app version and the web app will be released soon! I used .NET MAUI to develop the app, React + Next.JS for the website(where you are able to download the Android app) and Vercel for deployment of the website.
+- 🌱 I love working on ... automation projects to simplify my daily tasks!
 
 ### 🛠  Tech Stack
 
