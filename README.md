@@ -10,6 +10,8 @@ I'm a recent Software Engineering Grad eager to apply my skills and continue gro
 - 🔭 I’m currently developing ... A travel planning app! I already released the trial version of the Android mobile app version and the web app will be released soon! I used .NET MAUI to develop the app, React + Next.JS for the website(where you are able to download the Android app) and Vercel for deployment of the website.
   
 - 🌱 I love working on ... automation projects to simplify my daily tasks!
+  
+- 🍂 Something new I'm learning about... Linux! I've taken the plunge and have fully moved my home pc to Linux and am learning as I use.
 
 ### 🛠  Tech Stack
 
