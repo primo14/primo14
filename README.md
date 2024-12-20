@@ -11,7 +11,7 @@ I'm a recent Software Engineering Grad eager to apply my skills and continue gro
   
 - 🌱 I love working on ... automation projects to simplify my daily tasks!
   
-- 🍂 Something new I'm learning about... Linux! I've taken the plunge and have fully moved my home pc to Linux and am learning as I use.
+- 🍂 Something new I'm learning ... Linux! I've taken the plunge and have fully moved my home pc to Linux and am learning as I use.
 
 ### 🛠  Tech Stack
 
