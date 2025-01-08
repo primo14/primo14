@@ -23,12 +23,14 @@ I'm a recent Software Engineering Grad eager to apply my skills and continue gro
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-05122A?logo=Typescript)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
+
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-05122A?logo=dotnet&logoColor=%23FFFFFF&labelColor=%23512BD4)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-05122A?logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?logo=nodedotjs)&nbsp;
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Vite](https://img.shields.io/badge/Vite-05122A?logo=vite)&nbsp;
+
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
