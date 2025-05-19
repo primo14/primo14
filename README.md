@@ -9,7 +9,8 @@ I'm a recent Software Engineering Grad eager to apply my skills and continue gro
 
 - 🔭 I’m currently developing ...
       - A travel planning app! I already released the trial version of the Android mobile app version and the web app will be released soon! I used .NET MAUI to develop the app, React + Next.js for the website(where you are able to download the Android app) and Vercel for deployment of the website.
-      - A sustainability focused B2B circular brokerage React web app that connects businesses with companies seeking organic waste (like sawdust, straw, and bagasse) for fungi-based recycling. Won the Toast Dash Hackathon 2025!
+
+-       A sustainability focused B2B circular brokerage React web app that connects businesses with companies seeking organic waste (like sawdust, straw, and bagasse) for fungi-based recycling. Won the Toast Dash Hackathon 2025!
   
 - 🌱 I love working on ... automation projects to simplify my daily tasks!
   
