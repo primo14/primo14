@@ -7,10 +7,11 @@ Here are some ideas to get you started: -->
 I'm a recent Software Engineering Grad eager to apply my skills and continue growing in the field. With a strong foundation in web and app development in various languages and frameworks, I'm looking for opportunities to contribute to real-world projects while expanding my knowledge and expertise in the ever-evolving tech landscape. I'm excited to collaborate, learn, and make a positive impact through my work.
 
 
-- 🔭 I’m currently developing ...
-      - A travel planning app! I already released the trial version of the Android mobile app version and the web app will be released soon! I used .NET MAUI to develop the app, React + Next.js for the website(where you are able to download the Android app) and Vercel for deployment of the website.
+* 🔭 I’m currently developing ...
 
--       A sustainability focused B2B circular brokerage React web app that connects businesses with companies seeking organic waste (like sawdust, straw, and bagasse) for fungi-based recycling. Won the Toast Dash Hackathon 2025!
+    *  A sustainability focused B2B circular brokerage React web app that connects businesses with companies seeking organic waste (like sawdust, straw, and bagasse) for fungi-based recycling. Won the Toast Dash Hackathon 2025!
+
+   *  A travel planning app! I already released the trial version of the Android mobile app version and the web app will be released soon! I used .NET MAUI to develop the app, React + Next.js for the website(where you are able to download the Android app) and Vercel for deployment of the website.
   
 - 🌱 I love working on ... automation projects to simplify my daily tasks!
   
